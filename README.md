@@ -18,3 +18,6 @@ I am currently working on getting a few Python examples in GitHUB so I can acces
 I'm learning about GitHUB
 I'm looking to collaborate on using GitHUB in a computer club to encourage using Visual Code and Python.
 Ask me about how to use the Pyton code to learn. I'm hoping I can help by documenting my own learning here. Then sharing the experience with the club and collaborating on making a better environment for students to do a few pre-requisite learning before taking a class.
+
+
+Picked this up from AndipStha https://www.codingame.com/home 
